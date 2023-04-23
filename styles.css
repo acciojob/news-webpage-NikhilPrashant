@@ -3,7 +3,7 @@ body {
 	background: #f5f5f5;
 }
 
-header {
+header h1 {
 	display: flex;
 	justify-content: center;
 	padding: 20px;
@@ -17,7 +17,7 @@ header {
 	margin: 10px 20px;
 }
 
-.a1, .a2, .a3 {
+.latest-news-section, .main-article-section, .pictorial-news-section {
 	background: white;
 	border-radius: 10px;
 	margin: 5px;
@@ -25,7 +25,7 @@ header {
 	height: auto;
 }
 
-.a1 {
+.latest-news-section {
 	width: 110rem;
 }
 
