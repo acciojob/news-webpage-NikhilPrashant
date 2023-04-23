@@ -1,1 +1,35 @@
 /*  your css code here. If applicable */
+body {
+	background: #f5f5f5;
+}
+
+header {
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	background: #011e29;
+	color: white;
+}
+
+.holder {
+	display: flex;
+	align-items: start;
+	margin: 10px 20px;
+}
+
+.a1, .a2, .a3 {
+	background: white;
+	border-radius: 10px;
+	margin: 5px;
+	padding: 10px;
+	height: auto;
+}
+
+.a1 {
+	width: 110rem;
+}
+
+img {
+	width: 11rem;
+	margin: 20px 10px;
+}
